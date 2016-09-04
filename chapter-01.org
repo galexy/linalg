@@ -5,7 +5,9 @@
 #+begin_src latex
 
 $$
+\begin{aligned}
 x=\sqrt{b}
+\end{aligned}
 $$
 
 #+end_src
