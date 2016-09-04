@@ -4,8 +4,8 @@
 ** 1.1 Vectors and Linear Combinations
 #+begin_src latex
 
-\begin{equation}
+$$
 x=\sqrt{b}
-\end{equation}
+$$
 
 #+end_src
